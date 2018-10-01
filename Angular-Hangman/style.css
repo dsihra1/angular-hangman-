@@ -1,0 +1,37 @@
+html {
+    height: 100%;
+    margin: 0;
+    font-family: cursive;
+}
+
+body {
+    background-color: #c1c1c1;
+}
+
+h2{
+    text-align: center;
+    font-size: 35px;
+}
+
+.guessRemain, .incor, .cor, .guess, button{
+    font-size: 20px;
+    text-align: center;
+    
+}
+
+.guess{
+    padding-bottom: 20px;
+}
+
+.button{
+    margin: auto;
+    text-align: center;
+}
+
+#textbox{
+    
+    width: 150px;
+    height: 20px;
+    margin: 0 auto;
+    
+}
